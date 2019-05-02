@@ -1,0 +1,4 @@
+responses\DefaultResponse.class
+com\cgi\sample\web\config\WebAppInitializer.class
+com\cgi\sample\web\Endpoints.class
+com\cgi\sample\web\AppConfig.class
